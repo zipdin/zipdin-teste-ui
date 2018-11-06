@@ -1,12 +1,12 @@
 
-TESTE ESTAGIÁRIO UI / FRONT-END
+<b>TESTE PARA ESTAGIO UI / FRONT-END</b>
 
 O teste consiste em transformar estas tela, feita com a ferramenta Adobe XD, em uma página HTML com design Responsivo. 
 
-TAREFA BÔNUS(Opcional): Fazer interações ou animações em Javascript. 
+TAREFA BÔNUS (Opcional): Fazer interações ou animações em Javascript. 
 
 Qualquer framework será aceito (Bootstrap, Material, etc).
 
 Link do layout: https://xd.adobe.com/spec/498791b9-d153-4d1a-6feb-42c98aa2e756-3fb6/
 
-Enviar o resultado para o email ti@zipdin.com.br em um arquivo unico compactado, com o assunto "ESTAGIO FRONT-END".
+Enviar o resultado para o email <a href="mailto:ti@zipdin.com.br">ti@zipdin.com.br</a> em um arquivo unico compactado, com o assunto "ESTAGIO FRONT-END".
